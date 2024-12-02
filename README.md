@@ -3,7 +3,7 @@ Hello there! I'm Kokoete Bassey, a devoted and skilled frontend and Backend deve
 
 🌍  I'm based in Nigeria
 🖥️  See my portfolio at My Portfolio
-✉️  You can contact me at koksidev0@gmail.com
+✉️  You can contact me at koksidev@gmail.com
 🧠  I'm ]currently learning Typescript, Nextjs and React Native
 🤝  I'm open to collaborating on Projects and working for a company
 ⚡  I so much love coding
